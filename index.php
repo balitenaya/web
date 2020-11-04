@@ -17,7 +17,7 @@
 </head>
 <body>
     <center>
-    <div class="row">
+    <div class="row" style="margin-left: 15px;">
         <div class="card atas1 shadow p-3 mb-5 bg-white rounded" style="width: 18rem;">
             <img src="logo/ig.png" class="card-img-top rounded-lg" alt="...">
             <div class="card-body">
