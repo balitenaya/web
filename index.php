@@ -37,9 +37,17 @@
         <div class="card atas1 shadow p-3 mb-5 bg-white rounded" style="width: 18rem;">
             <img src="logo/twit.png" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">TWITTER</h5>
+                <h5 class="card-title">Twitter</h5>
                 <p class="card-text">Follow gan</p>
                 <a href="https://www.twitter.com/tenaya_bali" class="btn btn-primary">Follow</a>
+            </div>
+        </div>
+        <div class="card atas1 shadow p-3 mb-5 bg-white rounded" style="width: 18rem;">
+            <img src="logo/dc.png" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Discrod</h5>
+                <p class="card-text">Join gan</p>
+                <a href="https://discord.gg/9S928uzdTd" class="btn btn-primary">Join</a>
             </div>
         </div>
     </div>
