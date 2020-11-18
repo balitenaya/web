@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
-<html lang="en">
-
+<html>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,6 +8,9 @@
         @font-face{
             font-family: "Font Digital";
             src: url('font/Karla-Bold.ttf');
+        }
+        html{
+            min-height: 100%;
         }
         .atas1{
             margin-top: 2%;
@@ -28,11 +29,16 @@
             /* font-family: Arial, Helvetica, sans-serif; */
             color: whitesmoke;
         }
-        .ini2{
+        footer{
             font-family: monospace;
             color: whitesmoke;
-            margin-top: 10%;
             opacity:  0.2;
+            align-items: center;
+	        z-index: 1;
+            position:absolute;
+	        bottom: 0%;
+            margin-left: 2%;
+	        
         }
     </style>
     <link rel="icon" type="image/png" href="logo/en.png">
@@ -59,9 +65,9 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </body>
 <footer class="ini2">
-    <center>
+  
         <h6>© 2020 Bali Tenaya.  All rights reserved</h6>
-    </center>
+    
     
 </footer>
 </html>
