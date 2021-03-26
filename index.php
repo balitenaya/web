@@ -55,7 +55,7 @@
             <a type="button" href="https://instagram.com/tenaya_bali/" class="btn btn-outline-light btn-lg btn-block">Instagram</a>
             <a type="button" href="https://twitter.com/tenaya_bali" class="btn btn-outline-light btn-lg btn-block">Twitter</a>
             <a type="button" href="https://facebook.com/balistream01" class="btn btn-outline-light btn-lg btn-block">Facebook Gamming</a>
-            <a type="button" href="https://youtube.com/balitenaya/" class="btn btn-outline-light btn-lg btn-block">Youtube</a>
+            <a type="button" href="https://www.youtube.com/channel/UCiLjZEaFEjso_B9BwdO94xQ" class="btn btn-outline-light btn-lg btn-block">Youtube</a>
             <a type="button" href="https://discord.gg/9S928uzdTd " class="btn btn-outline-light btn-lg btn-block">Discord</a>
         </div>
     </div>
