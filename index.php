@@ -57,8 +57,7 @@
             <a type="button" href="https://facebook.com/balistream01" class="btn btn-outline-light btn-lg btn-block">Facebook Gamming</a>
             <a type="button" href="https://www.youtube.com/balitenayaa" class="btn btn-outline-light btn-lg btn-block">Youtube</a>
             <a type="button" href="https://discord.gg/9S928uzdTd " class="btn btn-outline-light btn-lg btn-block">Discord</a>
-		<iframe src="https://discord.com/widget?id=772743830536847370&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-        </div>
+	</div>
     </div>
     </center>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
