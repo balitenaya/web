@@ -57,6 +57,7 @@
             <a type="button" href="https://facebook.com/balistream01" class="btn btn-outline-light btn-lg btn-block">Facebook Gamming</a>
             <a type="button" href="https://www.youtube.com/balitenayaa" class="btn btn-outline-light btn-lg btn-block">Youtube</a>
             <a type="button" href="https://discord.gg/9S928uzdTd " class="btn btn-outline-light btn-lg btn-block">Discord</a>
+		<iframe src="https://discord.com/widget?id=772743830536847370&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         </div>
     </div>
     </center>
@@ -67,7 +68,6 @@
 <footer class="ini2">
   
         <h6>© 2020 Bali Tenaya.  All rights reserved</h6>
-	<iframe src="https://discord.com/widget?id=772743830536847370&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-    
+	
 </footer>
 </html>
