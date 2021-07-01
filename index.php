@@ -57,6 +57,7 @@
             <a type="button" href="https://facebook.com/balistream01" class="btn btn-outline-light btn-lg btn-block">Facebook Gamming</a>
             <a type="button" href="https://www.youtube.com/balitenayaa" class="btn btn-outline-light btn-lg btn-block">Youtube</a>
             <a type="button" href="https://discord.gg/9S928uzdTd " class="btn btn-outline-light btn-lg btn-block">Discord</a>
+		<a type="button" href="https://www.tiktok.com/@tenaya_bali" class="btn btn-outline-light btn-lg btn-block">TikTok</a>
 	</div>
     </div>
     </center>
